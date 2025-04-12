@@ -5,4 +5,5 @@ A GAMF web1 tantárgy anyagai.
 - ZH: 2025.05.10.
 - Beadnadó: 2025.05.10.
 
+Tesztelő sor
 ezt neked Kristóf
