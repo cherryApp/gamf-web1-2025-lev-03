@@ -4,3 +4,5 @@ A GAMF web1 tantárgy anyagai.
 ## Követelmények
 - ZH: 2025.05.10.
 - Beadnadó: 2025.05.10.
+
+ezt neked Kristóf
